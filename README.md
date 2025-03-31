@@ -81,4 +81,4 @@ Upon running the simulation, you will see a Newton's cradle with the rightmost b
 
 Developed by:
 - Julian Cruzet ( 100870375 )
-- Jonathan McKesey ( )
+- Jonathan McKesey ( 100863402 )
